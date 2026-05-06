@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/Shashank-sys-ux">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%9A%80+Turning+ideas+into+intelligent+products;%F0%9F%A7%A0+AI+%E2%80%A2+ML+%E2%80%A2+Backend+%E2%80%A2+XR;%F0%9F%8F%86+Hackathon+Finalist+%E2%80%A2+Builder+%E2%80%A2+Dreamer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%9A%80+Turning+ideas+into+intelligent+products;%F0%9F%A7%A0+AI+%E2%80%A2+ML+%E2%80%A2+Backend+Development;%F0%9F%8F%86+Hackathon+Finalist+%E2%80%A2+Builder+%E2%80%A2+Dreamer" />
   </a>
 
 </div>
@@ -39,7 +39,7 @@ role:       Product Developer Intern @ BodyClone
 tech_lead:  VectorFlow Club, VVCE
 education:  B.E. CSE-AIML, VVCE Mysuru (2023-27)
 location:   Mysuru, India 🇮🇳
-focus:      AI • ML • Backend • XR
+focus:      AI • ML • Backend Development
 currently:  Building scalable AI products
 learning:   Reinforcement Learning, System Design
 fun_fact:   Hackathon addict — 52K+ dev rivalries survived
