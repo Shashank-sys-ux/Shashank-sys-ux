@@ -143,10 +143,12 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 ---
 
-<!-- 💬 QUOTE -->
+<!-- 💬 DEV MANIFESTO -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<h3>
+  <code>while (alive) { learn(); build(); ship(); repeat(); }</code>
+</h3>
 
 </div>
 
@@ -172,4 +174,4 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 <br/>
 
 <!-- 🌊 FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build%20Something%20Lovable%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&animation=twinkling" />
