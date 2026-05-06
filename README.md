@@ -115,12 +115,28 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank-sys-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-sys-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F81F7&text_color=ffffff" />
+<img src="https://img.shields.io/github/followers/Shashank-sys-ux?label=Followers&style=for-the-badge&labelColor=0D1117&color=2F81F7" />
+<img src="https://img.shields.io/github/stars/Shashank-sys-ux?label=Stars&style=for-the-badge&labelColor=0D1117&color=FFB700" />
+<img src="https://img.shields.io/github/contributions/Shashank-sys-ux?label=Contributions&style=for-the-badge&labelColor=0D1117&color=00D26A" />
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shashank-sys-ux&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" />
+<a href="https://github.com/Shashank-sys-ux">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank-sys-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff&cache_seconds=86400" />
+</a>
+<a href="https://github.com/Shashank-sys-ux">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-sys-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F81F7&text_color=ffffff&cache_seconds=86400" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Shashank-sys-ux">
+  <img src="https://streak-stats.demolab.com?user=Shashank-sys-ux&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" />
+</a>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/2F81F7/Shashank-sys-ux" alt="Contribution Graph" width="95%" />
 
 </div>
 
