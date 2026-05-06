@@ -1,32 +1,28 @@
-<!-- 🌊 ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shashank%20S&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20%E2%9A%A1%20ML%20%E2%9A%A1%20Builder&descSize=18&descAlignY=60" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shashank%20S&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20%C2%B7%20ML%20%C2%B7%20Builder&descSize=17&descAlignY=60" />
 
-<!-- ⌨️ TYPING INTRO -->
+<!-- TYPING INTRO -->
 <div align="center">
-  
   <a href="https://github.com/Shashank-sys-ux">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%9A%80+Turning+ideas+into+intelligent+products;%F0%9F%A7%A0+AI+%E2%80%A2+ML+%E2%80%A2+Backend+Development;%F0%9F%8F%86+Hackathon+Finalist+%E2%80%A2+Builder+%E2%80%A2+Dreamer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=2F81F7&center=true&vCenter=true&width=600&height=40&lines=Turning+ideas+into+intelligent+products;AI+%C2%B7+ML+%C2%B7+Backend+Development;Hackathon+Finalist+%C2%B7+Builder" />
   </a>
-
 </div>
 
 <br/>
 
-<!-- 🎯 QUICK STATS BADGES -->
+<!-- QUICK BADGES -->
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%80-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00D26A?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Shashank-sys-ux&label=Profile%20Views&color=2F81F7&style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Status-Building-2F81F7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-FF6B6B?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00D26A?style=flat-square&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Shashank-sys-ux&label=Profile%20Views&color=2F81F7&style=flat-square" />
 </div>
 
 <br/>
 
 ---
 
-<!-- 👨‍💻 ABOUT ME -->
+<!-- ABOUT ME (UNCHANGED) -->
 <table align="center" border="0">
 <tr>
 <td width="60%" valign="top">
@@ -56,25 +52,25 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 ---
 
-<!-- 🛠 TECH STACK -->
-### 🛠 &nbsp; My Arsenal
+<!-- TECH STACK -->
+### Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql&theme=dark" />
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,tensorflow,flask,nodejs,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-<!-- 🏆 HIGHLIGHTS -->
-### 🏆 &nbsp; Highlights
+<!-- HIGHLIGHTS -->
+### Highlights
 
 <div align="center">
 
-| 🥇 | 🥈 | 🏅 | 🏅 | 🎓 |
+| | | | | |
 |:---:|:---:|:---:|:---:|:---:|
 | **IEEE Ideathon**<br/>`1st Place` | **Skillathon 2025**<br/>`Runner-up` | **Infosys Global**<br/>`Grand Finalist` | **Meta PyTorch**<br/>`Top from 52K+` | **Best Achiever**<br/>`VVCE 2023-24` |
 
@@ -82,30 +78,30 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 ---
 
-<!-- 🚀 FEATURED PROJECTS -->
-### 🚀 &nbsp; Featured Builds
+<!-- FEATURED PROJECTS -->
+### Featured Work
 
 <div align="center">
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-  <h3>🔋 ChargeSmart</h3>
-  <p><i>EV Charging Platform</i></p>
-  <p>Smart route planning & slot booking for EV users</p>
-  <img src="https://img.shields.io/badge/Infosys-Finalist-blue?style=flat-square" />
+  <h4>ChargeSmart</h4>
+  <p><sub><i>EV Charging Platform</i></sub></p>
+  <p>Smart route planning &amp; slot booking for EV users</p>
+  <img src="https://img.shields.io/badge/Infosys-Finalist-2F81F7?style=flat-square&labelColor=0D1117" />
 </td>
 <td width="33%" align="center" valign="top">
-  <h3>🧘 AI Wellness</h3>
-  <p><i>Personal Health Companion</i></p>
+  <h4>AI Wellness</h4>
+  <p><sub><i>Personal Health Companion</i></sub></p>
   <p>Tracks habits, gives adaptive wellness advice</p>
-  <img src="https://img.shields.io/badge/Python-AI-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-AI-FFD43B?style=flat-square&labelColor=0D1117" />
 </td>
 <td width="33%" align="center" valign="top">
-  <h3>🚨 Alert System</h3>
-  <p><i>Computer Vision Safety</i></p>
-  <p>Gesture detection → instant WhatsApp SOS</p>
-  <img src="https://img.shields.io/badge/OpenCV-Twilio-red?style=flat-square" />
+  <h4>Alert System</h4>
+  <p><sub><i>Computer Vision Safety</i></sub></p>
+  <p>Gesture detection with instant WhatsApp SOS</p>
+  <img src="https://img.shields.io/badge/OpenCV-Twilio-FF6B6B?style=flat-square&labelColor=0D1117" />
 </td>
 </tr>
 </table>
@@ -114,13 +110,13 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 ---
 
-<!-- 📊 GITHUB STATS -->
-### 📊 &nbsp; The Numbers
+<!-- GITHUB STATS -->
+### GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shashank-sys-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-sys-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F81F7&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank-sys-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-sys-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F81F7&text_color=ffffff" />
 
 <br/>
 
@@ -128,14 +124,16 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 </div>
 
-<!-- 🏆 TROPHIES -->
+<br/>
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shashank-sys-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
-<!-- 🐍 SNAKE -->
+<br/>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -144,40 +142,38 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 ---
 
-<!-- 💬 DEV MANIFESTO -->
+<!-- DEV MANIFESTO -->
 <div align="center">
 
-<h3>
-  <code>while (alive) { learn(); build(); ship(); repeat(); }</code>
-</h3>
+<code>while (alive) { learn(); build(); ship(); repeat(); }</code>
 
 </div>
 
 ---
 
-<!-- 🤝 CONNECT -->
-### 🤝 &nbsp; Let's Connect
+<!-- CONNECT -->
+### Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shashank-s-20927b291/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shashanksgowda05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Shashank-sys-ux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- 🌊 FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&animation=twinkling" />
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-<!-- 👁️ UNIQUE VISITOR COUNTER (BOTTOM RIGHT) -->
+<!-- UNIQUE VISITOR COUNTER (BOTTOM RIGHT) -->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shashank-sys-ux.Shashank-sys-ux&left_color=black&right_color=2F81F7&left_text=Visitors" />
 </div>
