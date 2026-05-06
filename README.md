@@ -60,16 +60,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank-sys-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-sys-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/Shashank-sys-ux">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashank-sys-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Shashank-sys-ux">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shashank-sys-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashank-sys-ux&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shashank-sys-ux&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shashank-sys-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F81F7/Shashank-sys-ux" alt="Shashank's Contribution Graph" />
 </p>
 
 ---
