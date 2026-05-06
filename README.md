@@ -36,6 +36,7 @@
 ```yaml
 name:       Shashank S
 role:       Product Developer Intern @ BodyClone
+tech_lead:  VectorFlow Club, VVCE
 education:  B.E. CSE-AIML, VVCE Mysuru (2023-27)
 location:   Mysuru, India 🇮🇳
 focus:      AI • ML • Backend • XR
@@ -175,3 +176,8 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 <!-- 🌊 FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&animation=twinkling" />
+
+<!-- 👁️ UNIQUE VISITOR COUNTER (BOTTOM RIGHT) -->
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shashank-sys-ux.Shashank-sys-ux&left_color=black&right_color=2F81F7&left_text=Visitors" />
+</div>
