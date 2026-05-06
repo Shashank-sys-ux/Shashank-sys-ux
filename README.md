@@ -156,14 +156,18 @@ fun_fact:   Hackathon addict — 52K+ dev rivalries survived
 
 <div align="center">
 
+<p><i>Always open to interesting conversations, collaborations, and opportunities.</i></p>
+
 <a href="https://www.linkedin.com/in/shashank-s-20927b291/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:shashanksgowda05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Shashank-sys-ux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+&nbsp;
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/Mysuru,%20India-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
 
 </div>
